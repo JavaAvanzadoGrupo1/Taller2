@@ -1,0 +1,4 @@
+create table "CAROLINA".ASOCIADO
+(
+	NOMBRE VARCHAR(20) not null primary key
+)

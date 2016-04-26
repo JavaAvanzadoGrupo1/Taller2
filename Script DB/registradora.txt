@@ -1,0 +1,6 @@
+create table "CAROLINA".REGISTRADORA
+(
+	ID INTEGER not null primary key,
+	ID_ASOCIADO VARCHAR(20),
+	FECHA DATE
+)
